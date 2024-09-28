@@ -16,8 +16,8 @@ module.exports = {
     /**
      * owner details and parameters
      */
-    ownername: process.env.Owner_Name || "Pika~Kun",
-    ownernumber: process.env.Owner_Number || "916900904828",
+    ownername: process.env.Owner_Name || "MAGICAL-KX",
+    ownernumber: process.env.Owner_Number || "263789432940,263780146948",
     instagramId: process.env.Insta || "3.69_pika",
 
     /**
@@ -29,8 +29,8 @@ module.exports = {
     groupLink: process.env.GcLink || "https://chat.whatsapp.com/E490r0wSpSr89XkCWeGtnX",
     warns: Number(process.env.Warn_Limits) || 3,
     cooldown: Number(process.env.Cooldown_Timer_Seconds) || 5, // default cooldown time per command in seconds
-    mongoUrl: process.env.MongoDB || "YOUR_MONGODB_URL",
-    sessionId: process.env.SESSION_ID || "YOUR_SESSION_ID",
+    mongoUrl: process.env.MongoDB || "mongodb+srv://kenton2004:kenton2004@cluster0.8ywpe.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    sessionId: process.env.SESSION_ID || "https://github.com/DARK-PARD/Anya_v2-MD",
 
     /**
      * thumbnails and medias
